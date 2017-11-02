@@ -183,7 +183,9 @@ a.disabled {
     background-color: inherit;
 }
 
-
+.media.introduction img{
+    max-width: 300px;
+}
 /* MODULE */
 
 .files:after {
